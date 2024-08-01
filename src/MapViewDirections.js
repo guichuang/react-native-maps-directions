@@ -9,7 +9,7 @@ class MapViewDirections extends Component {
 
 	constructor(props) {
 		super(props);
-
+xxxxxxxx
 		this.state = {
 			coordinates: null,
 			distance: null,
